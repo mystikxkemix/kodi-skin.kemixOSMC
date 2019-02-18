@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
-	id="skin.osmc"
+	id="skin.kemixosmc"
 	version="18.0.0"
-	name="OSMC Skin"
-	provider-name="OSMC">
+	name="Kemix OSMC"
+	provider-name="kemix">
 	<requires>
 		<import addon="xbmc.gui" version="5.14.0"/>
 	</requires>
